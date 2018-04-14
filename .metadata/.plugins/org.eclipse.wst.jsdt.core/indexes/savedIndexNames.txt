@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/sc/CloudStation/Sync/JavaWeb/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2018995883.index
+1060938469.index
+2451249606.index
+1397020580.index
+1097497585.index
+3597521870.index
